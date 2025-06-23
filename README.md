@@ -11,7 +11,8 @@ g++ main.cpp -o main
 ./main
 ```
 
-也可以使用https://www.onlinegdb.com/online_c++_compiler這個網站進行編譯
+也可以使用https://www.onlinegdb.com/online_c++_compiler 這個網站進行編譯
 
 程式碼位於main.cpp中
+
 報告詳細內容都在112502036.pdf中
