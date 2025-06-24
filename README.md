@@ -15,7 +15,7 @@ python main.py
 ```
 
 
-也可以於 Colab (https://colab.google)安裝必要套件：
+也可以於 Colab (https://colab.google) 安裝必要套件：
 
 ```bash
 !pip install qiskit qiskit-aer matplotlib numpy
